@@ -24,6 +24,11 @@ A hand-drawn, animated Tic-Tac-Toe game built with React. This isn't your averag
 
 ---
 
+## Link to Live Site:  
+    https://tic-tac-toe-app-delta-two.vercel.app/
+
+
+
 ## 🚀 Getting Started
 
 1. **Clone the repo**
